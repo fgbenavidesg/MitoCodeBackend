@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DkAzgtG6xTai234k2omD7lF0yeXTRWCHRRxuOx2DoHU=",
+  "Source": "GestionLibros.Api",
+  "BasePath": "_content/GestionLibros.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

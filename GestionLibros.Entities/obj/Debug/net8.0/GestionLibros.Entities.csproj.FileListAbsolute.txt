@@ -1,0 +1,11 @@
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\bin\Debug\net8.0\GestionLibros.Entities.deps.json
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\bin\Debug\net8.0\GestionLibros.Entities.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\bin\Debug\net8.0\GestionLibros.Entities.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.AssemblyInfoInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.AssemblyInfo.cs
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\refint\GestionLibros.Entities.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\GestionLibros.Entities.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Entities\obj\Debug\net8.0\ref\GestionLibros.Entities.dll

@@ -1,0 +1,15 @@
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\bin\Debug\net8.0\GestionLibros.Persistence.deps.json
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\bin\Debug\net8.0\GestionLibros.Persistence.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\bin\Debug\net8.0\GestionLibros.Persistence.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\bin\Debug\net8.0\GestionLibros.Entities.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\bin\Debug\net8.0\GestionLibros.Entities.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.csproj.AssemblyReference.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.AssemblyInfoInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.AssemblyInfo.cs
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionL.2153CA49.Up2Date
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\refint\GestionLibros.Persistence.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\GestionLibros.Persistence.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Persistence\obj\Debug\net8.0\ref\GestionLibros.Persistence.dll

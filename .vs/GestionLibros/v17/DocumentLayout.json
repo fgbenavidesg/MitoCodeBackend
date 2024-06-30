@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.repositories\\librosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|solutionrelative:gestionlibros.repositories\\librosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.repositories\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|solutionrelative:gestionlibros.repositories\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834E9F5-618A-4E4D-95EC-A3C19F901F60}|GestionLibros.Repositories\\GestionLibros.Repositories.csproj|solutionrelative:gestionlibros.repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8C40B0-58F0-4A08-B0E7-FB7A466E1840}|GestionLibros.Services\\GestionLibros.Services.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.services\\implementation\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8C40B0-58F0-4A08-B0E7-FB7A466E1840}|GestionLibros.Services\\GestionLibros.Services.csproj|solutionrelative:gestionlibros.services\\implementation\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8C40B0-58F0-4A08-B0E7-FB7A466E1840}|GestionLibros.Services\\GestionLibros.Services.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.services\\interface\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8C40B0-58F0-4A08-B0E7-FB7A466E1840}|GestionLibros.Services\\GestionLibros.Services.csproj|solutionrelative:gestionlibros.services\\interface\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EE8676-6CC8-49FC-BFEC-A07B1150AEB6}|GestionLibros.Api\\GestionLibros.Api.csproj|c:\\users\\fgben\\source\\repos\\gestionlibros\\gestionlibros.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EE8676-6CC8-49FC-BFEC-A07B1150AEB6}|GestionLibros.Api\\GestionLibros.Api.csproj|solutionrelative:gestionlibros.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240630062454_tablascompletas.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs",
+              "RelativeToolTip": "GestionLibros.Persistence\\Migrations\\20240630062454_tablascompletas.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwJgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:24:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\LibrosRepository.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Repositories\\LibrosRepository.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\LibrosRepository.cs",
+              "RelativeToolTip": "GestionLibros.Repositories\\LibrosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:17:44.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Repositories\\ClientesRepository.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\ClientesRepository.cs",
+              "RelativeToolTip": "GestionLibros.Repositories\\ClientesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:17:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "GestionLibros.Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:17:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Services\\Implementation\\PedidoService.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Services\\Implementation\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Services\\Implementation\\PedidoService.cs",
+              "RelativeToolTip": "GestionLibros.Services\\Implementation\\PedidoService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:19:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Services\\Interface\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Services\\Interface\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Services\\Interface\\IPedidoService.cs",
+              "RelativeToolTip": "GestionLibros.Services\\Interface\\IPedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:19:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Api\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "GestionLibros.Api\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\fgben\\source\\repos\\GestionLibros\\GestionLibros.Api\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "GestionLibros.Api\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:29:47.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

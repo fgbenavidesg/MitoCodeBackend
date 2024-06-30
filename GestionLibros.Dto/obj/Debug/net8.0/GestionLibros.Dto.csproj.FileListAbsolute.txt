@@ -1,0 +1,11 @@
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\bin\Debug\net8.0\GestionLibros.Dto.deps.json
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\bin\Debug\net8.0\GestionLibros.Dto.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\bin\Debug\net8.0\GestionLibros.Dto.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.AssemblyInfoInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.AssemblyInfo.cs
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.csproj.CoreCompileInputs.cache
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\refint\GestionLibros.Dto.dll
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\GestionLibros.Dto.pdb
+C:\Users\fgben\source\repos\GestionLibros\GestionLibros.Dto\obj\Debug\net8.0\ref\GestionLibros.Dto.dll
